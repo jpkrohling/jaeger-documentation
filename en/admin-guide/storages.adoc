@@ -1,0 +1,5 @@
+# Backing storages
+
+* link:storage-inmemory.adoc[In-memory]
+* link:storage-cassandra.adoc[Cassandra]
+* link:storage-elasticsearch.adoc[Elasticsearch]

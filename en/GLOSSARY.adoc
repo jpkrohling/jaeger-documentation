@@ -1,0 +1,6 @@
+= Glossary
+
+== Reporter
+
+The client component responsible for the report strategy. A concrete example
+include ...

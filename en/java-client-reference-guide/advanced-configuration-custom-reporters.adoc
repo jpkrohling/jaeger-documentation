@@ -1,0 +1,3 @@
+# Advanced configuration - Custom reporters
+
+The chapter on custom Reporter , hopefully with links to the glossary.

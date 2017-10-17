@@ -1,0 +1,28 @@
+= Summary
+
+* link:README.adoc[About this documentation]
+
+== Administrator's guide
+* link:admin-guide/README.adoc[Overview]
+* link:admin-guide/components.adoc[The Jaeger components]
+* link:admin-guide/storages.adoc[Backing storages]
+** link:admin-guide/storages-inmemory.adoc[In-memory]
+** link:admin-guide/storages-cassandra.adoc[Cassandra]
+** link:admin-guide/storages-elasticsearch.adoc[Elasticsearch]
+* link:admin-guide/deployment.adoc[Deployment]
+** link:admin-guide/deployment-docker.adoc[Docker]
+** link:admin-guide/deployment-kubernetes.adoc[Kubernetes]
+** link:admin-guide/deployment-openshift.adoc[OpenShift]
+* link:admin-guide/metrics.adoc[Internal metrics]
+
+== Java Client reference guide
+* link:java-client-reference-guide/README.adoc[Overview]
+* link:java-client-reference-guide/components.adoc[Components]
+* link:java-client-reference-guide/basic-configuration.adoc[Basic configuration]
+* link:java-client-reference-guide/advanced-configuration.adoc[Advanced configuration]
+** link:java-client-reference-guide/advanced-configuration-env-vars.adoc[Environment variables]
+** link:java-client-reference-guide/advanced-configuration-custom-reporters.adoc[Custom reporters]
+** link:java-client-reference-guide/advanced-configuration-custom-samplers.adoc[Custom samplers]
+** link:java-client-reference-guide/advanced-configuration-custom-senders.adoc[Custom senders]
+* link:java-client-reference-guide/context-propagation.adoc[In-process context propagation]
+* link:java-client-reference-guide/addon-modules.adoc[Add-on modules]
