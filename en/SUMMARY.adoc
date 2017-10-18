@@ -13,6 +13,7 @@
 ** link:admin-guide/deployment-docker.adoc[Docker]
 ** link:admin-guide/deployment-kubernetes.adoc[Kubernetes]
 ** link:admin-guide/deployment-openshift.adoc[OpenShift]
+** link:admin-guide/deployment-multitenancy.adoc[Multitenancy]
 * link:admin-guide/metrics.adoc[Internal metrics]
 
 == Java Client reference guide
