@@ -1,0 +1,10 @@
+= Coming soon!
+
+In the meantime: 
+
+```bash
+$ npm install -g gitbook
+$ git clone https://github.com/jpkrohling/jaeger-documentation.git
+$ cd jaeger-documentation
+$ gitbook install ; gitbook serve 
+```
